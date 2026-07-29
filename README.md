@@ -109,4 +109,4 @@ This project helped me improve my skills in Python, SQL, and Power BI. It also g
 
 Aspiring Data Analyst
 
-**Skills:** Python | SQL | Power BI | Excel
+**Skills:** Python | SQL | Power BI
